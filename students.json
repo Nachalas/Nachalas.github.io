@@ -1,26 +1,26 @@
 [
     {
-        "name":"Ivan",
-        "surname":"Ivanov",
-        "age":"18",
-        "mark_average":"9"
+        "name":"Vlad",
+        "surname":"Vladov",
+        "age":"20",
+        "mark_average":"9.6"
     },
     {
-       "name":"Oleg",
-        "surname":"Olegov",
-        "age":"17",
-        "mark_average":"7.5" 
+       "name":"Igor",
+        "surname":"Igorev",
+        "age":"15",
+        "mark_average":"7.7" 
     },
     {
-        "name":"Anton",
-        "surname":"Antonov",
+        "name":"Nikolay",
+        "surname":"Nikolayev",
         "age":"19",
-        "mark_average":"9.3"
+        "mark_average":"9.9"
     },
     {
-        "name":"Egor",
-        "surname":"Egorov",
+        "name":"Ilya",
+        "surname":"Ilyev",
         "age":"16",
-        "mark_average":"8.4"
+        "mark_average":"8.8"
     }
 ]
