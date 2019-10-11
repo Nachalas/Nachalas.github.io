@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Ivan",
+        "surname":"Ivanov",
+        "age":"18",
+        "mark_average":"9"
+    },
+    {
+       "name":"Oleg",
+        "surname":"Olegov",
+        "age":"17",
+        "mark_average":"7.5" 
+    },
+    {
+        "name":"Anton",
+        "surname":"Antonov",
+        "age":"19",
+        "mark_average":"9.3"
+    },
+    {
+        "name":"Egor",
+        "surname":"Egorov",
+        "age":"16",
+        "mark_average":"8.4"
+    }
+]
