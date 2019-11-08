@@ -1,4 +1,5 @@
-[
+{
+"students" : [
     {
         "name":"Vlad",
         "surname":"Vladov",
@@ -24,3 +25,4 @@
         "mark_average":"8.8"
     }
 ]
+}
